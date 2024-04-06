@@ -1,2 +1,2 @@
-const apiKey = "AIzaSyCwpAFjSF4Y9TXTi-msOkWqVM4yctjHAcU";
-const apiKey2 = "AIzaSyDLaGGBGcztmofLZoWAGrpRFYB5ajYIjIo";
+const apiKey = "api1";
+const apiKey2 = "api2";
